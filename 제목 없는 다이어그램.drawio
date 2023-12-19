@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T02:36:31.206Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="o2YG_uN7VRtzXY5Fmh4I" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T02:36:52.267Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="foTi_5vZdsxpIXv6kbJl" version="22.1.11" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1259" dy="1512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -89,15 +89,6 @@
           <mxGeometry x="0.1256" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="URrm9f4mnOQlKwYiaSUi-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="URrm9f4mnOQlKwYiaSUi-41">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="621" as="sourcePoint" />
-            <mxPoint x="750" y="620.58" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="URrm9f4mnOQlKwYiaSUi-41" value="권한 관리" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-77" value="종료" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="770" width="80" height="60" as="geometry" />
@@ -363,6 +354,18 @@
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-127" value="사용자 접속 로그" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="URrm9f4mnOQlKwYiaSUi-129">
           <mxGeometry x="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="URrm9f4mnOQlKwYiaSUi-132" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="680" y="530" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="URrm9f4mnOQlKwYiaSUi-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="URrm9f4mnOQlKwYiaSUi-132" target="URrm9f4mnOQlKwYiaSUi-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="31" as="sourcePoint" />
+            <mxPoint x="70" y="30.58000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="URrm9f4mnOQlKwYiaSUi-41" value="권한 관리" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="URrm9f4mnOQlKwYiaSUi-132">
+          <mxGeometry x="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
