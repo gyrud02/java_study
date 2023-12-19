@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T07:18:58.857Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_uzg7Eo8zgaZBDPy-QXm" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T07:23:51.938Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="cR0yS6maRLI-EJNrHfb2" version="22.1.11" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="1145" dy="1452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1325" dy="1547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,20 +111,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="URrm9f4mnOQlKwYiaSUi-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="URrm9f4mnOQlKwYiaSUi-122" source="URrm9f4mnOQlKwYiaSUi-35">
+        <mxCell id="URrm9f4mnOQlKwYiaSUi-140" value="" style="group" vertex="1" connectable="0" parent="URrm9f4mnOQlKwYiaSUi-122">
+          <mxGeometry x="60" y="450" width="300" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="URrm9f4mnOQlKwYiaSUi-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="URrm9f4mnOQlKwYiaSUi-140">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="70" as="targetPoint" />
+            <mxPoint x="190" y="-137" as="targetPoint" />
+            <mxPoint x="120" y="-136.9999999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="URrm9f4mnOQlKwYiaSUi-35" value="카테고리 관리" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="URrm9f4mnOQlKwYiaSUi-122">
-          <mxGeometry x="60" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="URrm9f4mnOQlKwYiaSUi-35" value="카테고리 관리" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="URrm9f4mnOQlKwYiaSUi-140">
+          <mxGeometry y="-169" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="URrm9f4mnOQlKwYiaSUi-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="URrm9f4mnOQlKwYiaSUi-122" source="URrm9f4mnOQlKwYiaSUi-117" target="URrm9f4mnOQlKwYiaSUi-35">
+        <mxCell id="URrm9f4mnOQlKwYiaSUi-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="URrm9f4mnOQlKwYiaSUi-140">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="110" as="targetPoint" />
+            <mxPoint x="90" y="-110" as="targetPoint" />
+            <mxPoint x="245" y="-103" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="305" y="130" />
-              <mxPoint x="150" y="130" />
+              <mxPoint x="245" y="-70" />
+              <mxPoint x="90" y="-70" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -133,12 +138,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="URrm9f4mnOQlKwYiaSUi-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.755;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="URrm9f4mnOQlKwYiaSUi-122" source="URrm9f4mnOQlKwYiaSUi-117" target="URrm9f4mnOQlKwYiaSUi-35">
+        <mxCell id="URrm9f4mnOQlKwYiaSUi-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.755;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="URrm9f4mnOQlKwYiaSUi-140" source="URrm9f4mnOQlKwYiaSUi-117">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="30" as="targetPoint" />
+            <mxPoint x="90.60000000000036" y="-171.01999999999998" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="305" />
-              <mxPoint x="151" />
+              <mxPoint x="245" y="-207" />
+              <mxPoint x="91" y="-207" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -147,8 +152,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="URrm9f4mnOQlKwYiaSUi-117" value="카테고리&lt;br&gt;등록" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="URrm9f4mnOQlKwYiaSUi-122">
-          <mxGeometry x="250" y="35" width="110" height="70" as="geometry" />
+        <mxCell id="URrm9f4mnOQlKwYiaSUi-117" value="카테고리&lt;br&gt;등록" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="URrm9f4mnOQlKwYiaSUi-140">
+          <mxGeometry x="190" y="-172" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-128" value="신규/수정/삭제 로그" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="750" width="120" height="60" as="geometry" />
@@ -207,16 +212,16 @@
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URrm9f4mnOQlKwYiaSUi-37">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="920" y="311" as="targetPoint" />
+            <mxPoint x="920" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1074" y="180" as="targetPoint" />
-            <mxPoint x="974.99" y="275" as="sourcePoint" />
+            <mxPoint x="1074" y="-61" as="targetPoint" />
+            <mxPoint x="974.99" y="34" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="974.99" y="180" />
-              <mxPoint x="1072.99" y="180" />
+              <mxPoint x="974.99" y="-61" />
+              <mxPoint x="1072.99" y="-61" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -226,7 +231,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-37" value="게시글 관리" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="281" width="120" height="60" as="geometry" />
+          <mxGeometry x="750" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -248,22 +253,22 @@
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URrm9f4mnOQlKwYiaSUi-53">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1278" y="209" as="targetPoint" />
+            <mxPoint x="1278" y="-32" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1278" y="174" />
-              <mxPoint x="1278" y="209" />
+              <mxPoint x="1278" y="-67" />
+              <mxPoint x="1278" y="-32" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-53" value="보기" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1073" y="144" width="120" height="60" as="geometry" />
+          <mxGeometry x="1073" y="-97" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URrm9f4mnOQlKwYiaSUi-55">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1123" y="139" as="targetPoint" />
+            <mxPoint x="1123" y="-102" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1133" y="64" />
-              <mxPoint x="1133" y="64" />
+              <mxPoint x="1133" y="-177" />
+              <mxPoint x="1133" y="-177" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -274,10 +279,10 @@
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URrm9f4mnOQlKwYiaSUi-55">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1153" y="139" as="targetPoint" />
+            <mxPoint x="1153" y="-102" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1298" y="89" />
-              <mxPoint x="1153" y="89" />
+              <mxPoint x="1298" y="-152" />
+              <mxPoint x="1153" y="-152" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -287,21 +292,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-55" value="수정" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1223" y="29" width="110" height="70" as="geometry" />
+          <mxGeometry x="1223" y="-212" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="URrm9f4mnOQlKwYiaSUi-53" target="URrm9f4mnOQlKwYiaSUi-55">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1273" y="109" as="targetPoint" />
-            <mxPoint x="1193" y="139" as="sourcePoint" />
+            <mxPoint x="1273" y="-132" as="targetPoint" />
+            <mxPoint x="1193" y="-102" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1193" y="129" />
-              <mxPoint x="1278" y="129" />
+              <mxPoint x="1193" y="-112" />
+              <mxPoint x="1278" y="-112" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URrm9f4mnOQlKwYiaSUi-61">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1403" y="244" as="targetPoint" />
+            <mxPoint x="1403" y="3" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-66" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;" vertex="1" connectable="0" parent="URrm9f4mnOQlKwYiaSUi-65">
@@ -311,9 +316,9 @@
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URrm9f4mnOQlKwYiaSUi-61">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1163" y="209" as="targetPoint" />
+            <mxPoint x="1163" y="-32" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1163" y="244" />
+              <mxPoint x="1163" y="3" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -323,16 +328,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-61" value="삭제" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1223" y="209" width="110" height="70" as="geometry" />
+          <mxGeometry x="1223" y="-32" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-69" value="휴지통" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1403" y="214" width="120" height="60" as="geometry" />
+          <mxGeometry x="1403" y="-27" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="URrm9f4mnOQlKwYiaSUi-71" target="URrm9f4mnOQlKwYiaSUi-69">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1583" y="229" />
-              <mxPoint x="1583" y="229" />
+              <mxPoint x="1583" y="-12" />
+              <mxPoint x="1583" y="-12" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -343,10 +348,10 @@
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="URrm9f4mnOQlKwYiaSUi-71" target="URrm9f4mnOQlKwYiaSUi-37">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="840" y="440" as="targetPoint" />
+            <mxPoint x="840" y="199" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1840" y="440" />
-              <mxPoint x="840" y="440" />
+              <mxPoint x="1840" y="199" />
+              <mxPoint x="840" y="199" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -356,14 +361,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-71" value="복원" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1578" y="209" width="110" height="70" as="geometry" />
+          <mxGeometry x="1578" y="-32" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="URrm9f4mnOQlKwYiaSUi-69" target="URrm9f4mnOQlKwYiaSUi-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URrm9f4mnOQlKwYiaSUi-134">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1070" y="310" as="targetPoint" />
+            <mxPoint x="1070" y="69" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-139" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="URrm9f4mnOQlKwYiaSUi-135">
@@ -372,10 +377,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-134" value="권한이 &lt;br&gt;있는가?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="920" y="275" width="110" height="70" as="geometry" />
+          <mxGeometry x="920" y="34" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-136" value="등록" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1072" y="279" width="120" height="60" as="geometry" />
+          <mxGeometry x="1072" y="38" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
