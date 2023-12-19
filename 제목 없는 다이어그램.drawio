@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T02:25:14.080Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="PqVInZ5Nsge2TKVVXSNE" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T02:25:21.066Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="sSGtB7SBfTEZbDBa6x36" version="22.1.11" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="989" dy="1364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -311,6 +311,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="URrm9f4mnOQlKwYiaSUi-121" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="URrm9f4mnOQlKwYiaSUi-118">
+          <mxGeometry x="-0.0277" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.755;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="URrm9f4mnOQlKwYiaSUi-117" target="URrm9f4mnOQlKwYiaSUi-35">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="840" y="30" as="targetPoint" />
@@ -318,6 +323,11 @@
               <mxPoint x="995" />
               <mxPoint x="841" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="URrm9f4mnOQlKwYiaSUi-120" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="URrm9f4mnOQlKwYiaSUi-119">
+          <mxGeometry x="-0.0053" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-117" value="카테고리&lt;br&gt;등록" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
