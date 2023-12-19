@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T02:01:17.783Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="PEW42ebMhVbWHNky1eZX" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T02:01:39.466Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="svdimfpZMLGbEoL6m19S" version="22.1.11" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1195" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -136,6 +136,9 @@
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-43" value="로그 관리" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="388" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="URrm9f4mnOQlKwYiaSUi-47" value="로그인" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="152" width="110" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
