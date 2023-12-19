@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T02:21:37.583Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="lWc5fFT7X786l7aacPwo" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T02:22:28.014Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="jHLb3z4XM2fOoDtZgMH9" version="22.1.11" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="1195" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,6 +97,11 @@
             <Array as="points">
               <mxPoint x="690" y="70" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="URrm9f4mnOQlKwYiaSUi-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URrm9f4mnOQlKwYiaSUi-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-35" value="카테고리 관리" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -296,6 +301,9 @@
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="URrm9f4mnOQlKwYiaSUi-82" source="URrm9f4mnOQlKwYiaSUi-69" target="URrm9f4mnOQlKwYiaSUi-71">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URrm9f4mnOQlKwYiaSUi-115" value="등록" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="940" y="30" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
