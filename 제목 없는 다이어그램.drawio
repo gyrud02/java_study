@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T00:18:59.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="902h3EZqyxnI3PqPjyzK" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T00:19:34.366Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="6WgJn4c5ObrbGJBWPE8l" version="22.1.11" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1303" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -118,8 +118,7 @@
             <mxPoint x="1070" y="-180" as="targetPoint" />
             <mxPoint x="974.99" y="34" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="975" y="-180" />
-              <mxPoint x="1050" y="-180" />
+              <mxPoint x="971" y="-180" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -622,6 +621,11 @@
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-113" value="등록 로그" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1274" y="345" width="86" height="61" as="geometry" />
         </mxCell>
+        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-131" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="6Q4AC-Tpc4XNQMxzqcBr-122">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1070" y="-355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-122" value="권한이 &lt;br&gt;있는가?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="916" y="-390" width="110" height="70" as="geometry" />
         </mxCell>
@@ -636,6 +640,9 @@
               <mxPoint x="720" y="-350" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-129" value="보기" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1072" y="-390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
