@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T00:39:10.681Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9cZZFgSKHAykpH6W6Luq" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T00:40:44.083Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="y3g1r88uLk8zk-lCjzG5" version="22.1.11" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="2403" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2678" dy="1599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,6 +123,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1240" y="-174" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-212" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="URrm9f4mnOQlKwYiaSUi-53" target="6Q4AC-Tpc4XNQMxzqcBr-122">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-53" value="보기" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1072" y="-204" width="120" height="60" as="geometry" />
@@ -579,7 +582,7 @@
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-131" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="6Q4AC-Tpc4XNQMxzqcBr-122">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1070" y="-355" as="targetPoint" />
+            <mxPoint x="1231" y="-345" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-135" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="6Q4AC-Tpc4XNQMxzqcBr-131">
@@ -587,51 +590,29 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-136" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.19;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6Q4AC-Tpc4XNQMxzqcBr-122" target="URrm9f4mnOQlKwYiaSUi-37">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="971" y="-250" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="730" y="-200" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-137" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="6Q4AC-Tpc4XNQMxzqcBr-136">
-          <mxGeometry x="-0.6962" y="7" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-122" value="권한이 &lt;br&gt;있는가?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="916" y="-390" width="110" height="70" as="geometry" />
+          <mxGeometry x="1077" y="-380" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-123" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="6Q4AC-Tpc4XNQMxzqcBr-122" target="6Q4AC-Tpc4XNQMxzqcBr-122">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-126" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="URrm9f4mnOQlKwYiaSUi-37" target="6Q4AC-Tpc4XNQMxzqcBr-122">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="60" as="sourcePoint" />
-            <mxPoint x="800" y="-370" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="720" y="-350" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-143" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="6Q4AC-Tpc4XNQMxzqcBr-129" target="6Q4AC-Tpc4XNQMxzqcBr-142">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-129" value="내보내기" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1072" y="-390" width="120" height="60" as="geometry" />
+          <mxGeometry x="1233" y="-380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-138" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1369" y="-390" width="39" height="55" as="geometry" />
+          <mxGeometry x="1530" y="-380" width="39" height="55" as="geometry" />
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-140" value="개별 다운로드" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1408" y="-400" width="159" height="27" as="geometry" />
+          <mxGeometry x="1569" y="-390" width="159" height="27" as="geometry" />
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-141" value="전체 파일(압축) 다운로드" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1408" y="-347" width="159" height="27" as="geometry" />
+          <mxGeometry x="1569" y="-337" width="159" height="27" as="geometry" />
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-142" value="히스토리 로그" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1249" y="-390" width="120" height="60" as="geometry" />
+          <mxGeometry x="1410" y="-380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-150" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="6Q4AC-Tpc4XNQMxzqcBr-147" target="URrm9f4mnOQlKwYiaSUi-35">
           <mxGeometry relative="1" as="geometry">
