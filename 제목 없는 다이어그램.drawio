@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T02:06:33.158Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="vZr2Dbx06GKQFz255_PL" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T02:06:50.092Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="OaiBt8rZcI3h0OYPm5WZ" version="22.1.11" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="2276" dy="1491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1005,56 +1005,56 @@
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-39" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="6Q4AC-Tpc4XNQMxzqcBr-341">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="437" y="55" as="sourcePoint" />
-            <mxPoint x="518" y="55" as="targetPoint" />
+            <mxPoint x="422" y="55" as="sourcePoint" />
+            <mxPoint x="503" y="55" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-40" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="6Q4AC-Tpc4XNQMxzqcBr-341">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="478" y="95" as="sourcePoint" />
-            <mxPoint x="478" y="15" as="targetPoint" />
+            <mxPoint x="463" y="95" as="sourcePoint" />
+            <mxPoint x="463" y="15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-41" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="6Q4AC-Tpc4XNQMxzqcBr-341">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="478" y="15" as="sourcePoint" />
-            <mxPoint x="518" y="15" as="targetPoint" />
+            <mxPoint x="463" y="15" as="sourcePoint" />
+            <mxPoint x="503" y="15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-42" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="6Q4AC-Tpc4XNQMxzqcBr-341">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="478" y="95" as="sourcePoint" />
-            <mxPoint x="518" y="95" as="targetPoint" />
+            <mxPoint x="463" y="95" as="sourcePoint" />
+            <mxPoint x="503" y="95" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-43" value="Watchers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6Q4AC-Tpc4XNQMxzqcBr-341">
-          <mxGeometry x="519" width="117" height="27" as="geometry" />
+          <mxGeometry x="504" width="117" height="27" as="geometry" />
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-44" value="All" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6Q4AC-Tpc4XNQMxzqcBr-341">
-          <mxGeometry x="519" y="42" width="117" height="27" as="geometry" />
+          <mxGeometry x="504" y="42" width="117" height="27" as="geometry" />
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-45" value="Assignee" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6Q4AC-Tpc4XNQMxzqcBr-341">
-          <mxGeometry x="519" y="83" width="117" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="URrm9f4mnOQlKwYiaSUi-136" value="등록" style="rounded=0;whiteSpace=wrap;html=1;" parent="6Q4AC-Tpc4XNQMxzqcBr-341" vertex="1">
-          <mxGeometry y="24" width="120" height="60" as="geometry" />
+          <mxGeometry x="504" y="83" width="117" height="27" as="geometry" />
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-158" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="6Q4AC-Tpc4XNQMxzqcBr-341" target="6Q4AC-Tpc4XNQMxzqcBr-73" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="55" as="sourcePoint" />
-            <mxPoint x="198" y="56" as="targetPoint" />
+            <mxPoint x="105" y="55" as="sourcePoint" />
+            <mxPoint x="183" y="56" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-159" value="이메일 알람" style="rounded=0;whiteSpace=wrap;html=1;" parent="6Q4AC-Tpc4XNQMxzqcBr-341" vertex="1">
-          <mxGeometry x="318" y="24" width="120" height="60" as="geometry" />
+          <mxGeometry x="303" y="24" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-76" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="6Q4AC-Tpc4XNQMxzqcBr-341" source="6Q4AC-Tpc4XNQMxzqcBr-73">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="318" y="55" as="targetPoint" />
+            <mxPoint x="303" y="55" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-73" value="신규 로그" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6Q4AC-Tpc4XNQMxzqcBr-341">
-          <mxGeometry x="177" y="24" width="81" height="62" as="geometry" />
+          <mxGeometry x="162" y="24" width="81" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-344" value="수정" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="6Q4AC-Tpc4XNQMxzqcBr-341">
+          <mxGeometry x="2" y="20.5" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-343" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="6Q4AC-Tpc4XNQMxzqcBr-342">
           <mxGeometry relative="1" as="geometry">
