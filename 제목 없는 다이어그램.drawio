@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T00:43:39.112Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="RKD41hktDYMlXTy9bic1" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T00:44:28.769Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="UYbXj2qa7nbX_IigT9Ri" version="22.1.11" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="2678" dy="1599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -337,7 +337,7 @@
           <mxGeometry x="940" y="405" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-163" value="알림 대상자 지정" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1026" y="684" width="120" height="60" as="geometry" />
+          <mxGeometry x="970" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-166" value="이메일 알람" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1737" y="-83" width="120" height="60" as="geometry" />
@@ -834,13 +834,13 @@
           <mxGeometry x="970" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-215" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="920" y="660" width="50" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-216" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="920" y="730" width="50" height="80" as="geometry" />
+          <mxGeometry x="920" y="660" width="50" height="150" as="geometry" />
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-217" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="920" y="810" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-219" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="870" y="660" width="99" height="125" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
