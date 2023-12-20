@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T00:50:45.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="R67-I7wmreFRdoyi6SlE" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T00:52:43.433Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="n5G_iduvJQslZX3mLnWt" version="22.1.11" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="3406" dy="2172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2349" dy="1443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -839,10 +839,10 @@
         <mxCell id="URrm9f4mnOQlKwYiaSUi-163" value="계정" style="rounded=0;whiteSpace=wrap;html=1;" parent="6Q4AC-Tpc4XNQMxzqcBr-233" vertex="1">
           <mxGeometry y="27" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="URrm9f4mnOQlKwYiaSUi-176" value="게시판" style="rounded=0;whiteSpace=wrap;html=1;" parent="6Q4AC-Tpc4XNQMxzqcBr-233" vertex="1">
+        <mxCell id="URrm9f4mnOQlKwYiaSUi-176" value="게시판 접근" style="rounded=0;whiteSpace=wrap;html=1;" parent="6Q4AC-Tpc4XNQMxzqcBr-233" vertex="1">
           <mxGeometry x="202" width="117" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="URrm9f4mnOQlKwYiaSUi-177" value="카테고리" style="rounded=0;whiteSpace=wrap;html=1;" parent="6Q4AC-Tpc4XNQMxzqcBr-233" vertex="1">
+        <mxCell id="URrm9f4mnOQlKwYiaSUi-177" value="카테고리 접근" style="rounded=0;whiteSpace=wrap;html=1;" parent="6Q4AC-Tpc4XNQMxzqcBr-233" vertex="1">
           <mxGeometry x="201" y="103" width="117" height="27" as="geometry" />
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-229" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=16;" vertex="1" parent="6Q4AC-Tpc4XNQMxzqcBr-233">
@@ -850,6 +850,18 @@
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-234" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="895" y="832" width="25" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-236" value="게시판" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="974" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-237" value="등록/수정/삭제/내보내기/이동/댓글" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="964" width="218" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-241" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="6Q4AC-Tpc4XNQMxzqcBr-237">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="1003.58" as="sourcePoint" />
+            <mxPoint x="1110" y="1003.58" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
