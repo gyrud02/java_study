@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T01:55:31.799Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="JmWjmSqYhxJxvDfHgWgC" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T01:59:15.448Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="WSmtxWbUmLFO_ZMPrFQR" version="22.1.11" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="2834" dy="1795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2320" dy="1515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -858,7 +858,7 @@
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-264" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1678" y="578" width="319" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-265" value="알림" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6Q4AC-Tpc4XNQMxzqcBr-264">
+        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-265" value="알림 설정" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6Q4AC-Tpc4XNQMxzqcBr-264">
           <mxGeometry y="25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-266" value="" style="group" vertex="1" connectable="0" parent="6Q4AC-Tpc4XNQMxzqcBr-264">
@@ -918,7 +918,7 @@
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-278" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1677" y="706" width="319" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-279" value="알림" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6Q4AC-Tpc4XNQMxzqcBr-278">
+        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-279" value="알림 설정" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6Q4AC-Tpc4XNQMxzqcBr-278">
           <mxGeometry y="25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-280" value="" style="group" vertex="1" connectable="0" parent="6Q4AC-Tpc4XNQMxzqcBr-278">
@@ -1002,7 +1002,7 @@
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-323" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1677" y="833" width="319" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-324" value="알림" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6Q4AC-Tpc4XNQMxzqcBr-323">
+        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-324" value="알림 설정" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6Q4AC-Tpc4XNQMxzqcBr-323">
           <mxGeometry y="25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-325" value="" style="group" vertex="1" connectable="0" parent="6Q4AC-Tpc4XNQMxzqcBr-323">
