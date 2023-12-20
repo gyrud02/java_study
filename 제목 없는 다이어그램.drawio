@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T00:49:09.103Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="t-EEUW2GFScXO08jImIA" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T00:50:14.689Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="buitbqJ7cNY0PUpUgzrH" version="22.1.11" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="2678" dy="1599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -335,9 +335,6 @@
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-117" value="권한이&lt;br&gt;있는가?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="940" y="405" width="110" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="URrm9f4mnOQlKwYiaSUi-163" value="계정" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="970" y="684" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-166" value="이메일 알람" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1737" y="-83" width="120" height="60" as="geometry" />
@@ -788,17 +785,17 @@
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-211" value="Assignee" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6Q4AC-Tpc4XNQMxzqcBr-204">
           <mxGeometry x="56" y="83" width="117" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-213" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="920" y="580" width="50" height="140" as="geometry" />
+        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-231" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="870" y="596" width="50" height="236" as="geometry" />
         </mxCell>
-        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-214" value="알림" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="540" width="120" height="60" as="geometry" />
+        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-232" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="920" y="540" width="319" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-217" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="920" y="720" width="50" height="160" as="geometry" />
+        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-214" value="알림" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6Q4AC-Tpc4XNQMxzqcBr-232">
+          <mxGeometry y="25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-220" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1090" y="515" width="199" height="110" as="geometry" />
+        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-220" value="" style="group" vertex="1" connectable="0" parent="6Q4AC-Tpc4XNQMxzqcBr-232">
+          <mxGeometry x="120" width="199" height="110" as="geometry" />
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-221" value="" style="group" vertex="1" connectable="0" parent="6Q4AC-Tpc4XNQMxzqcBr-220">
           <mxGeometry width="199" height="110" as="geometry" />
@@ -836,14 +833,23 @@
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-228" value="Assignee" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6Q4AC-Tpc4XNQMxzqcBr-221">
           <mxGeometry x="82" y="83" width="117" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="URrm9f4mnOQlKwYiaSUi-176" value="게시판" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1172" y="657" width="117" height="27" as="geometry" />
+        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-233" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="920" y="770" width="319" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="URrm9f4mnOQlKwYiaSUi-177" value="카테고리" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1171" y="760" width="117" height="27" as="geometry" />
+        <mxCell id="URrm9f4mnOQlKwYiaSUi-163" value="계정" style="rounded=0;whiteSpace=wrap;html=1;" parent="6Q4AC-Tpc4XNQMxzqcBr-233" vertex="1">
+          <mxGeometry y="27" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-229" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1091" y="670" width="80" height="100" as="geometry" />
+        <mxCell id="URrm9f4mnOQlKwYiaSUi-176" value="게시판" style="rounded=0;whiteSpace=wrap;html=1;" parent="6Q4AC-Tpc4XNQMxzqcBr-233" vertex="1">
+          <mxGeometry x="202" width="117" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="URrm9f4mnOQlKwYiaSUi-177" value="카테고리" style="rounded=0;whiteSpace=wrap;html=1;" parent="6Q4AC-Tpc4XNQMxzqcBr-233" vertex="1">
+          <mxGeometry x="201" y="103" width="117" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-229" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=16;" vertex="1" parent="6Q4AC-Tpc4XNQMxzqcBr-233">
+          <mxGeometry x="121" y="13" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-234" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="895" y="832" width="25" height="168" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
