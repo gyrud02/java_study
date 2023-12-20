@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T02:09:17.636Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9CiRHGbCCQvFNn7r1qNO" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T02:09:46.292Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="MiP4CBBQB8BbTeVL1xJ1" version="22.1.11" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="2473" dy="1598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -453,9 +453,9 @@
             <mxPoint as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.572;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="6Q4AC-Tpc4XNQMxzqcBr-110">
+        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.572;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1079" y="438" as="targetPoint" />
+            <mxPoint x="1108.4699999999993" y="440.46399999999994" as="targetPoint" />
             <mxPoint x="1050" y="440" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
@@ -464,13 +464,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-112" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="6Q4AC-Tpc4XNQMxzqcBr-110" target="6Q4AC-Tpc4XNQMxzqcBr-113">
+        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-112" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="6Q4AC-Tpc4XNQMxzqcBr-113">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1199.9999999999995" y="436.56722689075605" as="sourcePoint" />
             <mxPoint x="1270" y="437" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-110" value="등록" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="405" width="90" height="62" as="geometry" />
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-203" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="6Q4AC-Tpc4XNQMxzqcBr-113" target="6Q4AC-Tpc4XNQMxzqcBr-198">
           <mxGeometry relative="1" as="geometry" />
@@ -1072,6 +1070,9 @@
             <mxPoint x="1298" y="664.5" as="sourcePoint" />
             <mxPoint x="1360" y="663.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-347" value="등록" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1105" y="402" width="110" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
