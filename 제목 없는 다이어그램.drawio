@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T00:28:44.622Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="kQVdRNr9SXIhUbzN4a2I" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T00:29:14.598Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="WWTm7ek1VQiBZbefzuxZ" version="22.1.11" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="2678" dy="1599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -652,7 +652,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-152" value="등록" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-161" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="6Q4AC-Tpc4XNQMxzqcBr-152" target="6Q4AC-Tpc4XNQMxzqcBr-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-152" value="수정" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1110" y="228" width="90" height="62" as="geometry" />
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-154" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.014;entryY=0.591;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="6Q4AC-Tpc4XNQMxzqcBr-147" target="6Q4AC-Tpc4XNQMxzqcBr-152">
@@ -679,6 +682,9 @@
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-158" value="로그아웃 로그" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-160" value="수정 로그" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1274" y="228" width="86" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
