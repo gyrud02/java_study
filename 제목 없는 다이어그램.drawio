@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T00:41:46.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="2nKYP7Pkmt2GQtWDjkss" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T00:43:31.306Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="IabTZHB1mIv7N7v0gV5T" version="22.1.11" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="2403" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2678" dy="1599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -306,11 +306,6 @@
             <mxPoint x="750" y="714.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="URrm9f4mnOQlKwYiaSUi-162" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="URrm9f4mnOQlKwYiaSUi-41" edge="1" target="URrm9f4mnOQlKwYiaSUi-163">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="929.9999999999998" y="714.037037037037" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-41" value="권한 관리" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="684" width="120" height="60" as="geometry" />
         </mxCell>
@@ -342,7 +337,7 @@
           <mxGeometry x="940" y="405" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-163" value="알림 대상자 지정" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1209" y="684" width="120" height="60" as="geometry" />
+          <mxGeometry x="1026" y="684" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="URrm9f4mnOQlKwYiaSUi-166" value="이메일 알람" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1737" y="-83" width="120" height="60" as="geometry" />
@@ -362,7 +357,7 @@
           <mxGeometry x="916" y="-214" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-19" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1329" y="659" width="199" height="110" as="geometry" />
+          <mxGeometry x="1146" y="660" width="199" height="110" as="geometry" />
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-28" value="" style="group" vertex="1" connectable="0" parent="6Q4AC-Tpc4XNQMxzqcBr-19">
           <mxGeometry width="199" height="110" as="geometry" />
@@ -831,6 +826,21 @@
         </mxCell>
         <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-211" value="Assignee" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6Q4AC-Tpc4XNQMxzqcBr-204">
           <mxGeometry x="56" y="83" width="117" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-213" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="920" y="580" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-214" value="알림 대상자 지정" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-215" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="920" y="660" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-216" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="920" y="730" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Q4AC-Tpc4XNQMxzqcBr-217" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="920" y="810" width="50" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
