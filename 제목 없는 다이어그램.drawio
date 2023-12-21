@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T00:46:19.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="QIcwHC5AXvtiVlk-eapL" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T00:46:57.985Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Cy6VfWVuQCsfPGQdp5q-" version="22.1.11" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="6287" dy="2598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5701" dy="2319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1091,14 +1091,6 @@
         <mxCell id="GRmZ9keiNQjqdzP9gh_h-1" value="시작" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-1600" y="-676" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GRmZ9keiNQjqdzP9gh_h-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="GRmZ9keiNQjqdzP9gh_h-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1730" y="-296" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-1740" y="-536" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GRmZ9keiNQjqdzP9gh_h-3" value="로그인 화면" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-1610" y="-546" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1261,6 +1253,14 @@
         </mxCell>
         <mxCell id="GRmZ9keiNQjqdzP9gh_h-59" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.019;entryY=0.382;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="GRmZ9keiNQjqdzP9gh_h-58" target="GRmZ9keiNQjqdzP9gh_h-35">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GRmZ9keiNQjqdzP9gh_h-60" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.183;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="GRmZ9keiNQjqdzP9gh_h-16" target="GRmZ9keiNQjqdzP9gh_h-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1460" y="-330" />
+              <mxPoint x="-1610" y="-350" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
