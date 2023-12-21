@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T01:54:22.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="G0FWbumEucGb8fabkPCg" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T01:54:25.816Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="7JeQbEr6ALlJTpADPRnJ" version="22.1.11" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="5544" dy="2244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="6386" dy="2645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1607,9 +1607,6 @@
             <mxPoint x="-1859.9099999999999" y="441" as="sourcePoint" />
             <mxPoint x="-1860.53" y="522" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="GRmZ9keiNQjqdzP9gh_h-199" value="※ 검색어&lt;br&gt;- 검색 필터 저장&lt;br&gt;- 검색 결과 축양 기능&lt;br&gt;- 검색 결과 내 재검색&lt;br&gt;- 인기 검색어&lt;br&gt;- 내가 찾은 검색어" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-1300" y="477" width="240" height="183" as="geometry" />
         </mxCell>
         <mxCell id="GRmZ9keiNQjqdzP9gh_h-201" value="검색어&lt;br&gt;DB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-2450" y="-325.5" width="150" height="120.5" as="geometry" />
