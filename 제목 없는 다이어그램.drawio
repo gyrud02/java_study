@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T01:53:34.633Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="XRYtcCehQC3536tCPZit" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T01:54:22.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="G0FWbumEucGb8fabkPCg" version="22.1.11" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="7831" dy="3333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5544" dy="2244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1655,7 +1655,7 @@
         <mxCell id="GRmZ9keiNQjqdzP9gh_h-216" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1920" y="825.47" as="sourcePoint" />
-            <mxPoint x="-1540" y="825.59" as="targetPoint" />
+            <mxPoint x="-1400" y="826" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GRmZ9keiNQjqdzP9gh_h-218" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
@@ -1680,6 +1680,18 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1600" y="887" as="targetPoint" />
             <mxPoint x="-1600" y="827" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GRmZ9keiNQjqdzP9gh_h-225" value="검색 결과 내&lt;br&gt;재검색" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1685" y="892" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GRmZ9keiNQjqdzP9gh_h-226" value="인기 검색어" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1525" y="889.5" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GRmZ9keiNQjqdzP9gh_h-227" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1400.3" y="886" as="targetPoint" />
+            <mxPoint x="-1400.3" y="826" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
