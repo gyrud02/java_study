@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T01:15:14.681Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="AyT8NzgaRi7_xc1DAalw" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T01:15:51.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="7izgpiwkr-efnh0wa9CL" version="22.1.11" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="4855" dy="1916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="6041" dy="2481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1379,6 +1379,12 @@
             <mxPoint x="-2720" y="789" as="targetPoint" />
             <mxPoint x="-2720" y="720" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GRmZ9keiNQjqdzP9gh_h-134" value="게시판 형식" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-2980" y="794" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GRmZ9keiNQjqdzP9gh_h-135" value="보드 형식" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-2770" y="798" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
