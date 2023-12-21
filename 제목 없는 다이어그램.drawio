@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T01:55:08.203Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="M_12Hhz7ZHXDoQ5vU0ns" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T01:55:10.435Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="7ivwH_K5ynzi2N0VHjNN" version="22.1.11" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="7303" dy="3082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1625,7 +1625,7 @@
         <mxCell id="GRmZ9keiNQjqdzP9gh_h-205" value="검색어 입력" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-1940" y="523" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GRmZ9keiNQjqdzP9gh_h-206" value="- 내가 찾은 검색어&lt;br&gt;- 검색 필터 저장" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="GRmZ9keiNQjqdzP9gh_h-206" value="- 내가 찾은 검색어" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-2120" y="145" width="170" height="75" as="geometry" />
         </mxCell>
         <mxCell id="GRmZ9keiNQjqdzP9gh_h-208" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.399;exitY=-0.048;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.455;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GRmZ9keiNQjqdzP9gh_h-205" target="GRmZ9keiNQjqdzP9gh_h-206">
