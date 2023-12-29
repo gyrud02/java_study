@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-29T01:21:26.124Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="bjEVM66t_om7tG0wWhGZ" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-29T01:21:31.146Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="BVnn6hwPx6Tm00VjojFz" version="22.1.15" type="github">
   <diagram name="페이지-1" id="CfTsEdYrUQADP-SYxcvu">
     <mxGraphModel dx="3032" dy="1581" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3xwDAUw6dFbpl16PfHFc-40" value="[메인화면 컨텐츠]&lt;br&gt;&lt;br&gt;1. 관리자&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 회원 접속 게시판 목록&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 게시판 최신 기록 게시판 목록&lt;/span&gt;&lt;/div&gt;&lt;br&gt;2. 사용자&lt;br&gt;- 권한 허용된 게시판의 목록&lt;br&gt;&lt;br&gt;3. 공통&lt;br&gt;- 로그아웃 버튼&lt;br&gt;- 계정 정보 변경 버튼" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="400" y="-105" width="248" height="273" as="geometry" />
+          <mxGeometry x="400" y="-103" width="248" height="273" as="geometry" />
         </mxCell>
         <mxCell id="3xwDAUw6dFbpl16PfHFc-51" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.942;exitY=0.581;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3xwDAUw6dFbpl16PfHFc-50">
           <mxGeometry relative="1" as="geometry">
