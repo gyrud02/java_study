@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T02:10:42.800Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="QfPktARP1zDwqTA7axLw" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T02:12:33.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="81DDM3WdsFft8LnktoQR" version="22.1.15" type="github">
   <diagram name="페이지-1" id="CfTsEdYrUQADP-SYxcvu">
     <mxGraphModel dx="2949" dy="3099" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -333,16 +333,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="giarZqFVq59d_r4smIDB-81" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="163" y="649" width="269" height="114" as="geometry" />
+          <mxGeometry x="162" y="650" width="307" height="123" as="geometry" />
         </mxCell>
-        <mxCell id="giarZqFVq59d_r4smIDB-78" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;1.상세 검색&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 카테고리&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 제목&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 본문&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 파일명&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 파일 내용&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 파일 확장자&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="giarZqFVq59d_r4smIDB-81">
-          <mxGeometry width="82" height="114" as="geometry" />
+        <mxCell id="giarZqFVq59d_r4smIDB-78" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;1.상세 검색&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 카테고리&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 제목&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 본문&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 파일명&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 파일 내용&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 파일 확장자&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 키워드&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 키워드 &amp;amp; 첨부파일 유/무&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="giarZqFVq59d_r4smIDB-81">
+          <mxGeometry width="120" height="123" as="geometry" />
         </mxCell>
         <mxCell id="giarZqFVq59d_r4smIDB-79" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 10px; background-color: initial;&quot;&gt;2. 정렬&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;- 연관순&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;- 날짜순&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="giarZqFVq59d_r4smIDB-81">
-          <mxGeometry x="82" width="55" height="114" as="geometry" />
+          <mxGeometry x="119.58364312267659" width="62.769516728624545" height="123" as="geometry" />
         </mxCell>
         <mxCell id="giarZqFVq59d_r4smIDB-80" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 10px;&quot;&gt;3. 검색 결과&lt;/b&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- TOP: 전체&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- LEFT: 카테고리 하위 검색&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;" vertex="1" parent="giarZqFVq59d_r4smIDB-81">
-          <mxGeometry x="137" width="132" height="114" as="geometry" />
+          <mxGeometry x="182.35" width="127.65" height="123" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
