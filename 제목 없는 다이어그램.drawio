@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T04:19:02.920Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="YCgyOpqcIUdOLygupqgT" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T04:28:52.697Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="zAPdrQiNL2q79k7_FQsV" version="22.1.15" type="github">
   <diagram name="페이지-1" id="CfTsEdYrUQADP-SYxcvu">
-    <mxGraphModel dx="4738" dy="3856" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3936" dy="3419" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -482,6 +482,9 @@
         </mxCell>
         <mxCell id="giarZqFVq59d_r4smIDB-121" value="[카테고리 관리 컨텐츠]&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 카테고리 생성(등록) 버튼&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 카테고리 목록&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="giarZqFVq59d_r4smIDB-118">
           <mxGeometry width="248" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="giarZqFVq59d_r4smIDB-122" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 10px; background-color: initial;&quot;&gt;3. 효과&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;- 하이라이팅 효과&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: initial;&quot;&gt;- 검색어 자동 완성&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;=&amp;gt; 인기 검색어&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;=&amp;gt; 내가 찾은 검색어&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
+          <mxGeometry x="344.77" y="649.5" width="119.23" height="123" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
