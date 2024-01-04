@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T01:53:30.101Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="QS057-RmCFljt_SYmN_t" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T01:54:31.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8iRgl5EOVYDy4Ua6xAG_" version="22.1.15" type="github">
   <diagram name="페이지-1" id="CfTsEdYrUQADP-SYxcvu">
-    <mxGraphModel dx="4338" dy="3856" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3773" dy="3548" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -287,7 +287,7 @@
             <mxPoint x="722" y="344" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3xwDAUw6dFbpl16PfHFc-81" value="[권한 관리 컨텐츠]&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 게시판 권한 목록&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 계정 권한 등록하기 버튼&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 게시판 접근 권한 등록하기 버튼&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="giarZqFVq59d_r4smIDB-48" vertex="1">
+        <mxCell id="3xwDAUw6dFbpl16PfHFc-81" value="[권한 관리 컨텐츠]&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 게시판 권한 목록&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 계정 생성(등록) 버튼&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 게시판 접근 권한 등록하기 버튼&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="giarZqFVq59d_r4smIDB-48" vertex="1">
           <mxGeometry x="600" width="248" height="161" as="geometry" />
         </mxCell>
         <mxCell id="giarZqFVq59d_r4smIDB-35" value="권한 관리&lt;br&gt;화면" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=16;" vertex="1" parent="giarZqFVq59d_r4smIDB-48">
@@ -296,16 +296,34 @@
         <mxCell id="giarZqFVq59d_r4smIDB-49" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-979" y="208" width="248" height="404" as="geometry" />
         </mxCell>
-        <mxCell id="3xwDAUw6dFbpl16PfHFc-60" value="게시판&lt;br&gt;관리 화면" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=16;" parent="giarZqFVq59d_r4smIDB-49" vertex="1">
+        <mxCell id="giarZqFVq59d_r4smIDB-54" value="" style="group" vertex="1" connectable="0" parent="giarZqFVq59d_r4smIDB-49">
+          <mxGeometry width="248" height="404" as="geometry" />
+        </mxCell>
+        <mxCell id="3xwDAUw6dFbpl16PfHFc-60" value="카테고리&lt;br&gt;관리 화면" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=16;" parent="giarZqFVq59d_r4smIDB-54" vertex="1">
           <mxGeometry x="72" y="344" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="giarZqFVq59d_r4smIDB-31" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="giarZqFVq59d_r4smIDB-49">
+        <mxCell id="giarZqFVq59d_r4smIDB-31" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="giarZqFVq59d_r4smIDB-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="122" y="162" as="sourcePoint" />
             <mxPoint x="122" y="344" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="giarZqFVq59d_r4smIDB-32" value="[게시판 관리 컨텐츠]&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 게시판 생성 버튼&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 게시판 목록&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="giarZqFVq59d_r4smIDB-49">
+        <mxCell id="giarZqFVq59d_r4smIDB-32" value="[카테고리 관리 컨텐츠]&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 카테고리 생성(등록) 버튼&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 카테고리 목록&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="giarZqFVq59d_r4smIDB-54">
+          <mxGeometry width="248" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="giarZqFVq59d_r4smIDB-56" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-689" y="206" width="248" height="404" as="geometry" />
+        </mxCell>
+        <mxCell id="giarZqFVq59d_r4smIDB-57" value="게시판&lt;br&gt;관리 화면" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=16;" vertex="1" parent="giarZqFVq59d_r4smIDB-56">
+          <mxGeometry x="72" y="344" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="giarZqFVq59d_r4smIDB-58" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="giarZqFVq59d_r4smIDB-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="122" y="162" as="sourcePoint" />
+            <mxPoint x="122" y="344" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="giarZqFVq59d_r4smIDB-59" value="[게시판 관리 컨텐츠]&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 게시판 생성 버튼&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 게시판 목록&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="giarZqFVq59d_r4smIDB-56">
           <mxGeometry width="248" height="161" as="geometry" />
         </mxCell>
       </root>
