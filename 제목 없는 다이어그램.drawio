@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T02:14:27.672Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="qxg19H1Uz01rvMCxcTXv" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T02:14:41.824Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="AW69glm2nxRexYyMPl43" version="22.1.15" type="github">
   <diagram name="페이지-1" id="CfTsEdYrUQADP-SYxcvu">
     <mxGraphModel dx="3341" dy="3313" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -344,7 +344,7 @@
           <mxGeometry x="162" y="650" width="120" height="123" as="geometry" />
         </mxCell>
         <mxCell id="giarZqFVq59d_r4smIDB-79" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 10px; background-color: initial;&quot;&gt;2. 정렬&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;- 연관순&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;- 날짜순&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
-          <mxGeometry x="281.58364312267656" y="650" width="62.769516728624545" height="123" as="geometry" />
+          <mxGeometry x="289.65364312267656" y="850" width="62.769516728624545" height="123" as="geometry" />
         </mxCell>
         <mxCell id="giarZqFVq59d_r4smIDB-83" value="&lt;b&gt;검색 결과&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-58" y="874" width="120" height="60" as="geometry" />
@@ -354,6 +354,9 @@
             <mxPoint x="62" y="904.5" as="sourcePoint" />
             <mxPoint x="163" y="903.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="giarZqFVq59d_r4smIDB-85" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 10px; background-color: initial;&quot;&gt;2. 정렬&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;- 연관순&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;- 날짜순&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
+          <mxGeometry x="282.0036431226766" y="650" width="62.769516728624545" height="123" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
