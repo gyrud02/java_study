@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T07:12:17.004Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="czVMR0pkfED1FD58abIR" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T08:59:11.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="DP4b-LKp_SbdxjnHU-74" version="22.1.15" type="github">
   <diagram name="페이지-1" id="CfTsEdYrUQADP-SYxcvu">
-    <mxGraphModel dx="5795" dy="4433" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4534" dy="3745" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -330,7 +330,7 @@
             <mxPoint x="-47" y="-139" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="giarZqFVq59d_r4smIDB-139" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="giarZqFVq59d_r4smIDB-109">
+        <mxCell id="giarZqFVq59d_r4smIDB-139" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.475;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="giarZqFVq59d_r4smIDB-109" target="giarZqFVq59d_r4smIDB-150">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="216" y="782.5604146321612" as="targetPoint" />
           </mxGeometry>
@@ -444,8 +444,8 @@
             <mxPoint x="775" y="435" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="giarZqFVq59d_r4smIDB-150" value="&lt;b&gt;검색어&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="161" y="785" width="120" height="60" as="geometry" />
+        <mxCell id="giarZqFVq59d_r4smIDB-150" value="&lt;b&gt;등록&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="160" y="725" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
