@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T03:00:43.075Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="JU4NPTT-WFpA_KWLlgbH" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T03:00:55.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="CMqWd4_RHfKy8QBVnVrE" version="22.1.15" type="github">
   <diagram name="페이지-1" id="CfTsEdYrUQADP-SYxcvu">
-    <mxGraphModel dx="5694" dy="4596" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4338" dy="3856" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
           <mxGeometry x="-46" y="-428" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3xwDAUw6dFbpl16PfHFc-13" value="종료" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-48" y="1672" width="100" height="60" as="geometry" />
+          <mxGeometry x="-45" y="1668" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3xwDAUw6dFbpl16PfHFc-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="3xwDAUw6dFbpl16PfHFc-14" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -359,6 +359,11 @@
         </mxCell>
         <mxCell id="giarZqFVq59d_r4smIDB-86" value="&lt;b style=&quot;font-size: 23px;&quot;&gt;#DB400&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b style=&quot;font-size: 23px;&quot;&gt;검색어 데이터베이스&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b style=&quot;font-size: 23px;&quot;&gt;* 테이블명: search_tbl&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;- no int primary key auto_increment&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;- mbNum varchar(100)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;- mb_id varchar(50)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-size: 16px; background-color: initial;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 17px;&quot;&gt;- scNum varchar(100)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;- sc_catName varchar(100)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;- sc_subj varchar(50)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;- sc_cont varchar(50)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;- sc_fileName varchar(50)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;- sc_fileCont varchar(50)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;- sc_fileExtenstion varchar(10)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;- sc_keyword varchar(50)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;- sc_fileAttach char(1) -&amp;gt; N: 0 / Y: 1&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;- regDate timestamp&amp;nbsp;&lt;font style=&quot;font-size: 17px;&quot;&gt;current_timestamp()&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="857" y="-2091" width="431" height="452" as="geometry" />
+        </mxCell>
+        <mxCell id="giarZqFVq59d_r4smIDB-105" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="giarZqFVq59d_r4smIDB-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4" y="1665.834205178654" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="giarZqFVq59d_r4smIDB-88" value="&lt;b&gt;검색 결과 내&lt;br&gt;재검색&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-56" y="1044" width="120" height="60" as="geometry" />
