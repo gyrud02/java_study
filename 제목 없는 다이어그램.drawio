@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T00:57:05.317Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="CKT3iYeC2FSEK2OGcImF" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-05T00:57:49.852Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="tMcwLJJaWd2w09Lb-Gfo" version="22.1.16" type="github">
   <diagram name="페이지-1" id="CfTsEdYrUQADP-SYxcvu">
     <mxGraphModel dx="5153" dy="4083" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -130,7 +130,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="giarZqFVq59d_r4smIDB-149" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-2382" y="-857" width="969" height="494.5" as="geometry" />
+          <mxGeometry x="-2384" y="-820" width="969" height="494.5" as="geometry" />
         </mxCell>
         <mxCell id="giarZqFVq59d_r4smIDB-82" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="giarZqFVq59d_r4smIDB-149" source="giarZqFVq59d_r4smIDB-62" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1232,6 +1232,9 @@
             <mxPoint x="-2457" y="-920" as="sourcePoint" />
             <mxPoint x="-1338" y="-923" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WWjnjCcvUzUKzFLUFEfB-262" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;b&gt;#SearchModule()&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-2424" y="-899" width="328.35" height="74.68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
