@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T00:15:48.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="R27I7E8opPX52IIdLIeI" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-05T00:21:20.787Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="NtbnPguklqOr61Wn_Li0" version="22.1.16" type="github">
   <diagram name="페이지-1" id="CfTsEdYrUQADP-SYxcvu">
     <mxGraphModel dx="4447" dy="3698" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -559,10 +559,8 @@
             <mxPoint x="-1169" y="1053.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WWjnjCcvUzUKzFLUFEfB-44" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="WWjnjCcvUzUKzFLUFEfB-42">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-567.2097902097898" y="891" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="WWjnjCcvUzUKzFLUFEfB-60" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="WWjnjCcvUzUKzFLUFEfB-27" target="WWjnjCcvUzUKzFLUFEfB-59">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WWjnjCcvUzUKzFLUFEfB-27" value="권한 및 첨부파일 설정" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-623" y="831" width="120" height="60" as="geometry" />
@@ -582,21 +580,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WWjnjCcvUzUKzFLUFEfB-42" value="생성한 게시판 읽기 화면" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-618" y="974" width="100" height="60" as="geometry" />
+          <mxGeometry x="-614" y="1152" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WWjnjCcvUzUKzFLUFEfB-46" value="수정" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-617" y="1103.5" width="96" height="95" as="geometry" />
+          <mxGeometry x="-613" y="1281.5" width="96" height="95" as="geometry" />
         </mxCell>
         <mxCell id="WWjnjCcvUzUKzFLUFEfB-48" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-735" y="1151" as="sourcePoint" />
-            <mxPoint x="-615" y="1150.52" as="targetPoint" />
+            <mxPoint x="-731" y="1329" as="sourcePoint" />
+            <mxPoint x="-611" y="1328.52" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WWjnjCcvUzUKzFLUFEfB-49" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-735" y="1152" as="sourcePoint" />
-            <mxPoint x="-734" y="1000" as="targetPoint" />
+            <mxPoint x="-731" y="1330" as="sourcePoint" />
+            <mxPoint x="-730" y="1178" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WWjnjCcvUzUKzFLUFEfB-51" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="WWjnjCcvUzUKzFLUFEfB-49">
@@ -606,15 +604,15 @@
         </mxCell>
         <mxCell id="WWjnjCcvUzUKzFLUFEfB-50" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-735" y="1001" as="sourcePoint" />
-            <mxPoint x="-619" y="1001" as="targetPoint" />
+            <mxPoint x="-731" y="1179" as="sourcePoint" />
+            <mxPoint x="-615" y="1179" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WWjnjCcvUzUKzFLUFEfB-52" value="삭제" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-414" y="964" width="80" height="80" as="geometry" />
+          <mxGeometry x="-418" y="1142" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WWjnjCcvUzUKzFLUFEfB-54" value="생성한&lt;br&gt;게시판의&lt;br&gt;수정화면" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-619" y="1266.25" width="100" height="60" as="geometry" />
+          <mxGeometry x="-615" y="1444.25" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WWjnjCcvUzUKzFLUFEfB-55" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="WWjnjCcvUzUKzFLUFEfB-46" target="WWjnjCcvUzUKzFLUFEfB-54">
           <mxGeometry relative="1" as="geometry" />
@@ -624,16 +622,57 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WWjnjCcvUzUKzFLUFEfB-57" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+        <mxCell id="WWjnjCcvUzUKzFLUFEfB-57" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="WWjnjCcvUzUKzFLUFEfB-52">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-374.5" y="964" as="sourcePoint" />
             <mxPoint x="-374" y="579" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WWjnjCcvUzUKzFLUFEfB-70" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="WWjnjCcvUzUKzFLUFEfB-57">
+          <mxGeometry x="0.1517" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WWjnjCcvUzUKzFLUFEfB-58" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-374" y="579" as="sourcePoint" />
             <mxPoint x="-517" y="579.83" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WWjnjCcvUzUKzFLUFEfB-61" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="WWjnjCcvUzUKzFLUFEfB-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-563.0000000000005" y="1148.971775449556" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WWjnjCcvUzUKzFLUFEfB-62" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="WWjnjCcvUzUKzFLUFEfB-61">
+          <mxGeometry x="-0.2517" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WWjnjCcvUzUKzFLUFEfB-59" value="등록" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-603" y="981.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WWjnjCcvUzUKzFLUFEfB-64" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="WWjnjCcvUzUKzFLUFEfB-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-735" y="1022" as="sourcePoint" />
+            <mxPoint x="-653" y="1005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WWjnjCcvUzUKzFLUFEfB-65" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-734" y="1022" as="sourcePoint" />
+            <mxPoint x="-736" y="579" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WWjnjCcvUzUKzFLUFEfB-68" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="WWjnjCcvUzUKzFLUFEfB-65">
+          <mxGeometry x="0.1371" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WWjnjCcvUzUKzFLUFEfB-66" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-736" y="580.17" as="sourcePoint" />
+            <mxPoint x="-617" y="579.83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
