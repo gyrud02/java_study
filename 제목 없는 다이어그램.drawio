@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T01:10:50.902Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="XKP9jKxpo1nvJqoPRvgM" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-05T01:11:00.249Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="HELUEvwlpoA-QkHZBOoh" version="22.1.16" type="github">
   <diagram name="페이지-1" id="CfTsEdYrUQADP-SYxcvu">
-    <mxGraphModel dx="4769" dy="3655" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4630" dy="3798" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -964,9 +964,6 @@
         </mxCell>
         <mxCell id="WWjnjCcvUzUKzFLUFEfB-303" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;b&gt;#EmailAlert()&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-2423" y="-209" width="328.35" height="74.68" as="geometry" />
-        </mxCell>
-        <mxCell id="WWjnjCcvUzUKzFLUFEfB-278" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;1. ALL&lt;br&gt;2. Watchers&lt;br&gt;3. Assignee&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-2919.995478927203" y="-95.62348178137651" width="205.9770114942529" height="338.6234817813765" as="geometry" />
         </mxCell>
         <mxCell id="WWjnjCcvUzUKzFLUFEfB-307" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="WWjnjCcvUzUKzFLUFEfB-305">
           <mxGeometry relative="1" as="geometry">
