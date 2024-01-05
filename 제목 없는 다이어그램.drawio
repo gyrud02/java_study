@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T00:34:05.863Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="44pGwOdCwKZYTOsOjnMe" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-05T00:34:51.430Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="eZ5ZfwIBimXow8JBC76v" version="22.1.16" type="github">
   <diagram name="페이지-1" id="CfTsEdYrUQADP-SYxcvu">
-    <mxGraphModel dx="4173" dy="3548" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4738" dy="3856" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -606,7 +606,7 @@
             <mxPoint x="732" y="790.0038070678711" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="giarZqFVq59d_r4smIDB-35" value="권한 생성&lt;br&gt;화면" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=16;" parent="WWjnjCcvUzUKzFLUFEfB-103" vertex="1">
+        <mxCell id="giarZqFVq59d_r4smIDB-35" value="생성 화면" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=16;" parent="WWjnjCcvUzUKzFLUFEfB-103" vertex="1">
           <mxGeometry x="682" y="647" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WWjnjCcvUzUKzFLUFEfB-95" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WWjnjCcvUzUKzFLUFEfB-103">
@@ -677,7 +677,7 @@
             <mxPoint x="169" y="624.646028306749" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WWjnjCcvUzUKzFLUFEfB-39" value="게시판&lt;br&gt;생성 화면" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=16;" vertex="1" parent="WWjnjCcvUzUKzFLUFEfB-104">
+        <mxCell id="WWjnjCcvUzUKzFLUFEfB-39" value="생성 화면" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=16;" vertex="1" parent="WWjnjCcvUzUKzFLUFEfB-104">
           <mxGeometry x="119" y="490" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WWjnjCcvUzUKzFLUFEfB-42" value="읽기 화면" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=16;" vertex="1" parent="WWjnjCcvUzUKzFLUFEfB-104">
@@ -804,7 +804,7 @@
         <mxCell id="WWjnjCcvUzUKzFLUFEfB-106" value="카테고리&lt;br&gt;관리 화면" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-906" y="552" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WWjnjCcvUzUKzFLUFEfB-107" value="권한 및 첨부파일 설정" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="WWjnjCcvUzUKzFLUFEfB-107" value="권한 설정" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-912" y="833" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WWjnjCcvUzUKzFLUFEfB-108" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="WWjnjCcvUzUKzFLUFEfB-109">
@@ -812,7 +812,7 @@
             <mxPoint x="-856" y="832.646028306749" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WWjnjCcvUzUKzFLUFEfB-109" value="게시판&lt;br&gt;생성 화면" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="WWjnjCcvUzUKzFLUFEfB-109" value="생성 화면" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-906" y="698" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WWjnjCcvUzUKzFLUFEfB-110" value="읽기 화면" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
