@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T00:47:52.711Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="OQ1xk3N7Jwh-Ck5RYSi0" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-05T00:48:16.166Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="rEA94uFs5qoi-SBkhJoc" version="22.1.16" type="github">
   <diagram name="페이지-1" id="CfTsEdYrUQADP-SYxcvu">
-    <mxGraphModel dx="4173" dy="3548" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4859" dy="3923" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -693,9 +693,9 @@
           <mxGeometry x="352" y="879.4200000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3xwDAUw6dFbpl16PfHFc-87" value="[계정 생성 및 권한 등록 컨텐츠]&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;- 아이디, 비밀번호, 이름, 이메일,&amp;nbsp; &amp;nbsp;연락처, 부서명, 비고 입력란&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;- 계정이 접근 가능한 게시판의 CRUD&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-320" y="857.4200000000001" width="464" height="110" as="geometry" />
+          <mxGeometry x="-559" y="857.4200000000001" width="464" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="3xwDAUw6dFbpl16PfHFc-89" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" edge="1">
+        <mxCell id="3xwDAUw6dFbpl16PfHFc-89" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1" source="3xwDAUw6dFbpl16PfHFc-87">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="145" y="907.4200000000001" as="sourcePoint" />
             <mxPoint x="352" y="907.4200000000001" as="targetPoint" />
