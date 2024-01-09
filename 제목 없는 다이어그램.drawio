@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T07:11:18.248Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_CVPKGNv1YK9z8NZ6yTe" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-09T07:11:49.749Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="iSHaXFI64lFNmoyr1lhm" version="22.1.16" type="github">
   <diagram name="페이지-1" id="CfTsEdYrUQADP-SYxcvu">
     <mxGraphModel dx="4447" dy="3698" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -887,7 +887,7 @@
             <mxPoint x="-1055.5" y="2271" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ELNuY2qfZlubulM9qDl_-102" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;#EmailAlert()&lt;br&gt;#DB300&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="ELNuY2qfZlubulM9qDl_-102" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;#DB300&lt;/b&gt;&lt;br&gt;#EmailAlert()&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-811" y="2829" width="162" height="66" as="geometry" />
         </mxCell>
         <mxCell id="ELNuY2qfZlubulM9qDl_-103" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
