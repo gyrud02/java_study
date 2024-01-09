@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T09:06:20.593Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="KG8qMncotq4IulFLI3Bt" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-09T09:06:29.951Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="h-u6fUxar2uolC1b3gmM" version="22.1.16" type="github">
   <diagram name="페이지-1" id="CfTsEdYrUQADP-SYxcvu">
-    <mxGraphModel dx="5425" dy="4330" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6300" dy="4840" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           <mxGeometry x="-46" y="-428" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3xwDAUw6dFbpl16PfHFc-13" value="종료" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-49" y="4271" width="103" height="63" as="geometry" />
+          <mxGeometry x="-56" y="4874" width="103" height="63" as="geometry" />
         </mxCell>
         <mxCell id="3xwDAUw6dFbpl16PfHFc-14" value="ID/PW&lt;br&gt;일치" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-48" y="49" width="100" height="100" as="geometry" />
