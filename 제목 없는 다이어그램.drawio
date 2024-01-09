@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T07:10:00.365Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="2KoggbtQQrwYNOiyt8g1" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-09T07:10:19.708Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="fm0MXNjpVL6n0wdDNOb8" version="22.1.16" type="github">
   <diagram name="페이지-1" id="CfTsEdYrUQADP-SYxcvu">
     <mxGraphModel dx="4447" dy="3698" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -831,7 +831,7 @@
             <mxPoint x="-934" y="2580.646028306749" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ELNuY2qfZlubulM9qDl_-89" value="생성 화면" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="ELNuY2qfZlubulM9qDl_-89" value="등록/생성&lt;br&gt;화면" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-984" y="2446" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ELNuY2qfZlubulM9qDl_-90" value="읽기 화면" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
