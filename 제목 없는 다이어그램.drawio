@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T09:02:57.438Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="mJLh-84i_LpWQzp1DXu_" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-09T09:03:26.155Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="B22NThmnTgK7MaOPiilk" version="22.1.16" type="github">
   <diagram name="페이지-1" id="CfTsEdYrUQADP-SYxcvu">
     <mxGraphModel dx="4550" dy="3820" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1291,7 +1291,7 @@
         <mxCell id="WWjnjCcvUzUKzFLUFEfB-303" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;b&gt;#EmailAlert()&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" parent="ELNuY2qfZlubulM9qDl_-306" vertex="1">
           <mxGeometry x="34" y="21" width="328.35" height="74.68" as="geometry" />
         </mxCell>
-        <mxCell id="ELNuY2qfZlubulM9qDl_-320" value="가온칩스&lt;br&gt;네트워크 환경&lt;br&gt;확인 유무" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ELNuY2qfZlubulM9qDl_-320" value="&lt;b&gt;AD 인증&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-61" y="-153" width="127" height="112" as="geometry" />
         </mxCell>
         <mxCell id="ELNuY2qfZlubulM9qDl_-322" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
