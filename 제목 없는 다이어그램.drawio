@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T09:00:11.129Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="wm5g-hN6Cxmzl3yBGuhh" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-09T09:01:24.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="xG9CeRo0_UvXtjPkrlKt" version="22.1.16" type="github">
   <diagram name="페이지-1" id="CfTsEdYrUQADP-SYxcvu">
-    <mxGraphModel dx="3550" dy="3237" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3713" dy="3332" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1430,8 +1430,10 @@
         <mxCell id="ELNuY2qfZlubulM9qDl_-357" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;#EmailAlert()&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1428.3400000000001" y="3675" width="162" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="ELNuY2qfZlubulM9qDl_-370" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ELNuY2qfZlubulM9qDl_-362" target="ELNuY2qfZlubulM9qDl_-369">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ELNuY2qfZlubulM9qDl_-370" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ELNuY2qfZlubulM9qDl_-362">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-277" y="4162" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ELNuY2qfZlubulM9qDl_-371" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="ELNuY2qfZlubulM9qDl_-370">
           <mxGeometry x="-0.0502" relative="1" as="geometry">
@@ -1461,8 +1463,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ELNuY2qfZlubulM9qDl_-369" value="링크 접속 가능" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-266.9950000000001" y="4129" width="120" height="60" as="geometry" />
+        <mxCell id="ELNuY2qfZlubulM9qDl_-369" value="링크 접속" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-268.3350000000001" y="4176" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ELNuY2qfZlubulM9qDl_-377" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ELNuY2qfZlubulM9qDl_-374">
           <mxGeometry relative="1" as="geometry">
@@ -1496,6 +1498,9 @@
         </mxCell>
         <mxCell id="ELNuY2qfZlubulM9qDl_-384" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;다운로드&lt;br&gt;권한 유/무&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-534.9900000000001" y="4420" width="97.33" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="ELNuY2qfZlubulM9qDl_-389" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;외부&lt;br&gt;사용자&lt;br&gt;인가?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-259.0000000000001" y="4072" width="97.33" height="83" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
