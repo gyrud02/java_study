@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T00:55:37.387Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="PenG4hnzV3Wyt4s9LPvm" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-10T00:56:13.452Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ND6auOsgoiThpEFEpRms" version="22.1.17" type="github">
   <diagram name="페이지-1" id="CfTsEdYrUQADP-SYxcvu">
     <mxGraphModel dx="4234" dy="3596" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -405,13 +405,11 @@
             <mxPoint x="2127.5" y="2173.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WWjnjCcvUzUKzFLUFEfB-105" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="WWjnjCcvUzUKzFLUFEfB-106" edge="1">
+        <mxCell id="WWjnjCcvUzUKzFLUFEfB-105" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1084.5" y="1474.9053327772353" as="targetPoint" />
+            <mxPoint x="1084.5" y="1395" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="WWjnjCcvUzUKzFLUFEfB-106" value="카테고리&lt;br&gt;관리 화면" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1034.5" y="1335" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WWjnjCcvUzUKzFLUFEfB-107" value="권한 설정" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1028.5" y="1616" width="120" height="60" as="geometry" />
@@ -620,14 +618,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3xwDAUw6dFbpl16PfHFc-84" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.522;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="3xwDAUw6dFbpl16PfHFc-80" edge="1">
+        <mxCell id="3xwDAUw6dFbpl16PfHFc-84" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.522;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="598.5" y="1478" as="targetPoint" />
-            <mxPoint x="598.5" y="1295" as="sourcePoint" />
+            <mxPoint x="598.6999999999998" y="1397.12" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="3xwDAUw6dFbpl16PfHFc-80" value="권한 관리&lt;br&gt;화면" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="546.5" y="1337" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="giarZqFVq59d_r4smIDB-34" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1437,13 +1432,11 @@
         <mxCell id="rj5tNYFqJKdutIQkTuIm-33" value="생성 화면" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="540.5" y="1637" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WWjnjCcvUzUKzFLUFEfB-38" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="giarZqFVq59d_r4smIDB-57" edge="1">
+        <mxCell id="WWjnjCcvUzUKzFLUFEfB-38" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1593.5" y="1466.9053327772353" as="targetPoint" />
+            <mxPoint x="1593.5" y="1387" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="giarZqFVq59d_r4smIDB-57" value="게시판&lt;br&gt;관리 화면" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1543.5" y="1327" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="giarZqFVq59d_r4smIDB-58" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1599,6 +1592,15 @@
         </mxCell>
         <mxCell id="rj5tNYFqJKdutIQkTuIm-40" value="&amp;nbsp;읽기 화면" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1546" y="1933.5" width="99" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="rj5tNYFqJKdutIQkTuIm-41" value="게시판&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;관리 화면" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1547" y="1335" width="99" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="rj5tNYFqJKdutIQkTuIm-42" value="카테고리&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;관리 화면" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1036" y="1341.5" width="99" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="rj5tNYFqJKdutIQkTuIm-43" value="권한 관리&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;화면" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="548.5" y="1341.5" width="99" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
