@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T06:53:48.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="TmeQnR27LtffLOKAMTCb" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T06:54:01.294Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="CqQ2ZLcN51G2Zq3wmHiN" version="22.1.18" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="4522" dy="2761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3341" dy="2105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -265,6 +265,16 @@
         <mxCell id="8wFjmPpEcd6pmcU-WBV2-96" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="8wFjmPpEcd6pmcU-WBV2-95">
           <mxGeometry x="-0.141" y="-1" relative="1" as="geometry">
             <mxPoint x="1" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wFjmPpEcd6pmcU-WBV2-102" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8wFjmPpEcd6pmcU-WBV2-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="1810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wFjmPpEcd6pmcU-WBV2-103" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="8wFjmPpEcd6pmcU-WBV2-102">
+          <mxGeometry x="-0.1913" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8wFjmPpEcd6pmcU-WBV2-81" value="A/S&lt;br&gt;신청&lt;br&gt;유/무" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
