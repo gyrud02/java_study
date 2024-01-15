@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T08:36:57.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="rvuhr9aAaL_M_iRZoC63" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T08:38:14.203Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="3Np3kKeHh0AiXh73-5n3" version="22.1.18" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="4168" dy="2105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4871" dy="2496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -448,7 +448,7 @@
         <mxCell id="8wFjmPpEcd6pmcU-WBV2-187" value="" style="endArrow=none;html=1;rounded=1;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2120" y="720" as="sourcePoint" />
-            <mxPoint x="3101" y="720" as="targetPoint" />
+            <mxPoint x="3870" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8wFjmPpEcd6pmcU-WBV2-188" value="" style="endArrow=none;html=1;rounded=1;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -487,20 +487,37 @@
         </mxCell>
         <mxCell id="8wFjmPpEcd6pmcU-WBV2-196" value="" style="endArrow=none;html=1;rounded=1;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2599" y="840" as="sourcePoint" />
-            <mxPoint x="2599" y="720" as="targetPoint" />
+            <mxPoint x="2639" y="840" as="sourcePoint" />
+            <mxPoint x="2639" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8wFjmPpEcd6pmcU-WBV2-198" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8wFjmPpEcd6pmcU-WBV2-197">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2599" y="1180" as="targetPoint" />
+            <mxPoint x="2639" y="1180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8wFjmPpEcd6pmcU-WBV2-197" value="[고객 관리 화면]&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 중앙(컨텐츠)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 15px;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;1) 버튼&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; - (엑셀) 등록하기 버튼&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;2) 목록&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; - 고객 정보 나열&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; - 고객번호, 이름(김**), 연락처(010-2253-****),&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;건물 타입, 동/호수&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; - 목록 누르면 고객정보 수정 화면&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2474" y="840" width="250" height="236" as="geometry" />
+          <mxGeometry x="2514" y="840" width="250" height="236" as="geometry" />
         </mxCell>
         <mxCell id="8wFjmPpEcd6pmcU-WBV2-199" value="[고객 관리 등록 화면]&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 중앙(컨텐츠)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 15px;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;- 등록하기, 목록으로 버튼&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;-&amp;nbsp;고객번호, 이름(김**), 연락처(010-2253-****),&amp;nbsp;&lt;span style=&quot;background-color: initial; border-color: var(--border-color);&quot;&gt;건물 타입, 동/호수&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2494" y="1180" width="210" height="260" as="geometry" />
+          <mxGeometry x="2534" y="1180" width="210" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="8wFjmPpEcd6pmcU-WBV2-200" value="" style="endArrow=none;html=1;rounded=1;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3198" y="840" as="sourcePoint" />
+            <mxPoint x="3198" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wFjmPpEcd6pmcU-WBV2-201" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8wFjmPpEcd6pmcU-WBV2-202">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3198" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wFjmPpEcd6pmcU-WBV2-202" value="[정보 등록 화면]&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 중앙(컨텐츠)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 15px;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;1) 버튼&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; - (엑셀) 등록하기 버튼&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;2) 목록&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; - 고객 정보 나열&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; - 고객번호, 이름(김**), 연락처(010-2253-****),&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;건물 타입, 동/호수&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; - 목록 누르면 고객정보 수정 화면&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3073" y="840" width="250" height="236" as="geometry" />
+        </mxCell>
+        <mxCell id="8wFjmPpEcd6pmcU-WBV2-203" value="[고객 관리 등록 화면]&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 중앙(컨텐츠)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 15px;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;- 등록하기, 목록으로 버튼&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;-&amp;nbsp;고객번호, 이름(김**), 연락처(010-2253-****),&amp;nbsp;&lt;span style=&quot;background-color: initial; border-color: var(--border-color);&quot;&gt;건물 타입, 동/호수&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3093" y="1180" width="210" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
