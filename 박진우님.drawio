@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T06:46:30.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="En0gMb-jZ5OHNJwj6gQq" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T06:46:42.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="fGLAxVNsC5Q1hXbeG8OO" version="22.1.18" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2610" dy="1700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3566" dy="2230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -126,7 +126,7 @@
         </mxCell>
         <mxCell id="8wFjmPpEcd6pmcU-WBV2-61" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="8wFjmPpEcd6pmcU-WBV2-60">
           <mxGeometry x="-0.141" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="-105" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8wFjmPpEcd6pmcU-WBV2-44" value="사전점검&lt;br&gt;신청&lt;br&gt;유/무" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
