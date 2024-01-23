@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T08:36:29.653Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_U2c6WQL91dy2mbmuYt_" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T08:39:44.645Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="A_B2Mn0_g9I6vzFlxjKD" version="22.1.18" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2022" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="-20" y="90" width="850" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j-ZNobjWfQlRdklXBY_k-9" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="130" y="150" width="120" height="140" as="geometry" />
+          <mxGeometry x="200" y="150" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="j-ZNobjWfQlRdklXBY_k-7" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="j-ZNobjWfQlRdklXBY_k-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -16,7 +16,7 @@
             <mxPoint x="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j-ZNobjWfQlRdklXBY_k-8" value="축제 지도 &lt;br&gt;및 길 안내" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="j-ZNobjWfQlRdklXBY_k-9">
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-8" value="축제 안내" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="j-ZNobjWfQlRdklXBY_k-9">
           <mxGeometry y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j-ZNobjWfQlRdklXBY_k-10" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
@@ -31,32 +31,8 @@
         <mxCell id="j-ZNobjWfQlRdklXBY_k-4" value="보물찾기" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="j-ZNobjWfQlRdklXBY_k-10">
           <mxGeometry y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j-ZNobjWfQlRdklXBY_k-11" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="270" y="150" width="120" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="j-ZNobjWfQlRdklXBY_k-12" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="j-ZNobjWfQlRdklXBY_k-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="80" as="sourcePoint" />
-            <mxPoint x="60" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="j-ZNobjWfQlRdklXBY_k-13" value="실시간&lt;br&gt;축제 현황" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="j-ZNobjWfQlRdklXBY_k-11">
-          <mxGeometry y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="j-ZNobjWfQlRdklXBY_k-14" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="414" y="150" width="120" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="j-ZNobjWfQlRdklXBY_k-15" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="j-ZNobjWfQlRdklXBY_k-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="80" as="sourcePoint" />
-            <mxPoint x="60" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="j-ZNobjWfQlRdklXBY_k-16" value="축제 간략 정보" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="j-ZNobjWfQlRdklXBY_k-14">
-          <mxGeometry y="80" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="j-ZNobjWfQlRdklXBY_k-17" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="560" y="150" width="120" height="140" as="geometry" />
+          <mxGeometry x="450" y="150" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="j-ZNobjWfQlRdklXBY_k-18" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="j-ZNobjWfQlRdklXBY_k-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -88,8 +64,44 @@
             <mxPoint x="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j-ZNobjWfQlRdklXBY_k-25" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;SNS 로그인&lt;br&gt;(네이버/카카오)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="j-ZNobjWfQlRdklXBY_k-23">
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-25" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;SNS 로그인&lt;br&gt;(네이버/카카오)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontColor=#333333;" vertex="1" parent="j-ZNobjWfQlRdklXBY_k-23">
           <mxGeometry y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-31" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="560" y="290" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-32" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="j-ZNobjWfQlRdklXBY_k-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-50" y="80" as="sourcePoint" />
+            <mxPoint x="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-34" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="200" y="430" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-35" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="j-ZNobjWfQlRdklXBY_k-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="80" as="sourcePoint" />
+            <mxPoint x="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-36" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;축제 간략 정보&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontColor=#333333;" vertex="1" parent="j-ZNobjWfQlRdklXBY_k-34">
+          <mxGeometry y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-37" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="200" y="290" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-38" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="j-ZNobjWfQlRdklXBY_k-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="80" as="sourcePoint" />
+            <mxPoint x="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-39" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;실시간 &lt;br&gt;축제 현황&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontColor=#333333;" vertex="1" parent="j-ZNobjWfQlRdklXBY_k-37">
+          <mxGeometry y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-33" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;길 안내&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="450" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
