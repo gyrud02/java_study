@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T09:23:06.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="IJu3plzuGywWrKXddcm3" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T09:23:15.609Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="TD5PBZUX7PGKi9C1I_3y" version="22.1.18" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="3341" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -181,8 +181,8 @@
         <mxCell id="j-ZNobjWfQlRdklXBY_k-107" value="&amp;nbsp;회원" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="299" y="585" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="j-ZNobjWfQlRdklXBY_k-108" value="&amp;nbsp;-&amp;nbsp;&lt;span style=&quot;text-align: center;&quot;&gt;로그인&lt;/span&gt;&lt;br&gt;&amp;nbsp;-&amp;nbsp;&lt;span style=&quot;text-align: center;&quot;&gt;로그아웃&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontColor=#333333;container=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="299" y="635" width="230" height="70" as="geometry" />
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-108" value="&amp;nbsp;- 회원가입&lt;br&gt;&amp;nbsp;-&amp;nbsp;&lt;span style=&quot;text-align: center;&quot;&gt;로그인&lt;/span&gt;&lt;br&gt;&amp;nbsp;-&amp;nbsp;&lt;span style=&quot;text-align: center;&quot;&gt;로그아웃&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontColor=#333333;container=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="299" y="635" width="230" height="85" as="geometry" />
         </mxCell>
         <mxCell id="j-ZNobjWfQlRdklXBY_k-109" value="&amp;nbsp; 진해군항제 추천 코스" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="299" y="400" width="230" height="50" as="geometry" />
