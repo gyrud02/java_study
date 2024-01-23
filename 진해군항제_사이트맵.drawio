@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T09:15:25.543Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="hZ4Zji4EsKsHKPB6ECNz" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T09:22:38.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="b0dNZkhu9smgEWl6FVky" version="22.1.18" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="3341" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,7 +119,7 @@
           <mxGeometry x="670" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j-ZNobjWfQlRdklXBY_k-96" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="670" y="290" width="120" height="140" as="geometry" />
+          <mxGeometry x="670" y="290" width="650" height="250" as="geometry" />
         </mxCell>
         <mxCell id="j-ZNobjWfQlRdklXBY_k-97" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="j-ZNobjWfQlRdklXBY_k-96">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -129,6 +129,9 @@
         </mxCell>
         <mxCell id="j-ZNobjWfQlRdklXBY_k-98" value="보물찾기(AR)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontColor=#333333;" vertex="1" parent="j-ZNobjWfQlRdklXBY_k-96">
           <mxGeometry y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-121" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="j-ZNobjWfQlRdklXBY_k-96">
+          <mxGeometry x="237" y="-59" width="473" height="230" as="geometry" />
         </mxCell>
         <mxCell id="j-ZNobjWfQlRdklXBY_k-99" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -140,7 +143,7 @@
           <mxGeometry x="670" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j-ZNobjWfQlRdklXBY_k-101" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="670" y="570" width="120" height="140" as="geometry" />
+          <mxGeometry x="670" y="570" width="385" height="240" as="geometry" />
         </mxCell>
         <mxCell id="j-ZNobjWfQlRdklXBY_k-102" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="j-ZNobjWfQlRdklXBY_k-101">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -150,6 +153,9 @@
         </mxCell>
         <mxCell id="j-ZNobjWfQlRdklXBY_k-103" value="&lt;b&gt;추천 코스&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="j-ZNobjWfQlRdklXBY_k-101">
           <mxGeometry y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-123" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="j-ZNobjWfQlRdklXBY_k-101">
+          <mxGeometry x="234" y="-60" width="480" height="230" as="geometry" />
         </mxCell>
         <mxCell id="j-ZNobjWfQlRdklXBY_k-22" value="로그인" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="670" y="790" width="120" height="60" as="geometry" />
@@ -184,8 +190,20 @@
         <mxCell id="j-ZNobjWfQlRdklXBY_k-110" value="&lt;span style=&quot;&quot;&gt;&amp;nbsp;- 길 안내&lt;br&gt;&amp;nbsp;- 추천 코스&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontColor=#333333;container=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="299" y="450" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="j-ZNobjWfQlRdklXBY_k-111" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="860" y="90" width="520" height="750" as="geometry" />
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-112" value="AR" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="739" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-114" value="진해군항제 로고&amp;nbsp;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=90;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="890" y="100" width="520" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-115" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;* 진해군항제 소개&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 16px;&quot;&gt;- 진해군항제 축제 정보&lt;/b&gt;&lt;/div&gt;&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;/div&gt;&lt;span style=&quot;font-weight: bold; color: rgb(51, 51, 51);&quot;&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 실시간 축제 현황&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: bold; color: rgb(51, 51, 51);&quot;&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 참가 상점 안내&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="j-ZNobjWfQlRdklXBY_k-114">
+          <mxGeometry y="90" width="520" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-116" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial; border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 22px;&quot;&gt;* 진해군항제 추천 코스&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; border-color: var(--border-color);&quot;&gt;&lt;b&gt;- 진해군항제 축제 정보&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;- 실시간 축제 현황&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;- 참가 상점 안내&lt;/b&gt;&lt;/div&gt;&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="j-ZNobjWfQlRdklXBY_k-114">
+          <mxGeometry y="380" width="520" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-118" value="ㅡ&lt;br&gt;ㅡ&lt;br&gt;ㅡ" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="100" width="60" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
