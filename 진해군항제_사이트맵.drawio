@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T08:33:40.809Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Jj878Qysy2rVFsMJv0VB" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T08:34:52.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="7arlCVhlrRB5od5bNqm_" version="22.1.18" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2022" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="j-ZNobjWfQlRdklXBY_k-1" value="사용자 메인 화면&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-20" y="90" width="850" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j-ZNobjWfQlRdklXBY_k-9" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-9" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
           <mxGeometry x="130" y="150" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="j-ZNobjWfQlRdklXBY_k-7" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="j-ZNobjWfQlRdklXBY_k-9">
@@ -16,10 +16,10 @@
             <mxPoint x="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j-ZNobjWfQlRdklXBY_k-8" value="축제 지도 &lt;br&gt;및 길 안내" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="j-ZNobjWfQlRdklXBY_k-9">
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-8" value="축제 지도 &lt;br&gt;및 길 안내" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="j-ZNobjWfQlRdklXBY_k-9">
           <mxGeometry y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j-ZNobjWfQlRdklXBY_k-10" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-10" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-20" y="150" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="j-ZNobjWfQlRdklXBY_k-2" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="j-ZNobjWfQlRdklXBY_k-10">
@@ -28,10 +28,10 @@
             <mxPoint x="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j-ZNobjWfQlRdklXBY_k-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="j-ZNobjWfQlRdklXBY_k-10">
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-4" value="보물찾기" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="j-ZNobjWfQlRdklXBY_k-10">
           <mxGeometry y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j-ZNobjWfQlRdklXBY_k-11" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-11" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
           <mxGeometry x="270" y="150" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="j-ZNobjWfQlRdklXBY_k-12" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="j-ZNobjWfQlRdklXBY_k-11">
@@ -40,10 +40,10 @@
             <mxPoint x="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j-ZNobjWfQlRdklXBY_k-13" value="실시간&lt;br&gt;축제 현황" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="j-ZNobjWfQlRdklXBY_k-11">
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-13" value="실시간&lt;br&gt;축제 현황" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="j-ZNobjWfQlRdklXBY_k-11">
           <mxGeometry y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j-ZNobjWfQlRdklXBY_k-14" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-14" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
           <mxGeometry x="414" y="150" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="j-ZNobjWfQlRdklXBY_k-15" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="j-ZNobjWfQlRdklXBY_k-14">
@@ -52,10 +52,10 @@
             <mxPoint x="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j-ZNobjWfQlRdklXBY_k-16" value="축제 간략 정보" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="j-ZNobjWfQlRdklXBY_k-14">
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-16" value="축제 간략 정보" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="j-ZNobjWfQlRdklXBY_k-14">
           <mxGeometry y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j-ZNobjWfQlRdklXBY_k-17" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-17" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
           <mxGeometry x="560" y="150" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="j-ZNobjWfQlRdklXBY_k-18" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="j-ZNobjWfQlRdklXBY_k-17">
@@ -64,10 +64,10 @@
             <mxPoint x="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j-ZNobjWfQlRdklXBY_k-19" value="추천 코스" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="j-ZNobjWfQlRdklXBY_k-17">
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-19" value="&lt;b&gt;추천 코스&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="j-ZNobjWfQlRdklXBY_k-17">
           <mxGeometry y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j-ZNobjWfQlRdklXBY_k-20" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-20" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
           <mxGeometry x="707" y="150" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="j-ZNobjWfQlRdklXBY_k-21" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="j-ZNobjWfQlRdklXBY_k-20">
@@ -76,7 +76,7 @@
             <mxPoint x="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j-ZNobjWfQlRdklXBY_k-22" value="로그인" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="j-ZNobjWfQlRdklXBY_k-20">
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-22" value="로그인" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="j-ZNobjWfQlRdklXBY_k-20">
           <mxGeometry y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
