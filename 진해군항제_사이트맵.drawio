@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T09:10:53.153Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Z0-XbGEkBo-d91ejzlFk" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T09:11:38.017Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ynbDcq1X5D8om9URrvMg" version="22.1.18" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="3341" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -205,10 +205,10 @@
             <mxPoint x="1180" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j-ZNobjWfQlRdklXBY_k-105" value="&amp;nbsp; 축제 소개" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;align=left;" vertex="1" parent="1">
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-105" value="&amp;nbsp; 진해군항제 소개" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-20" y="220" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="j-ZNobjWfQlRdklXBY_k-106" value="&lt;span style=&quot;&quot;&gt;&amp;nbsp;- 축제 정보&lt;br&gt;&amp;nbsp;- 실시간 축제 현황&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontColor=#333333;container=0;align=left;" vertex="1" parent="1">
+        <mxCell id="j-ZNobjWfQlRdklXBY_k-106" value="&lt;span style=&quot;&quot;&gt;&amp;nbsp;- 진해군항제 축제 정보&lt;br&gt;&amp;nbsp;- 실시간 축제 현황&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontColor=#333333;container=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="-20" y="270" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j-ZNobjWfQlRdklXBY_k-107" value="&amp;nbsp;회원" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;align=left;" vertex="1" parent="1">
